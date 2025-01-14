@@ -1,4 +1,4 @@
-## vegan-day
+## 회사 과제
 
 ### <span style="color: red;">**GET**</span> 커뮤니티 조회
 ```
